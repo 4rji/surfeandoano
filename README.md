@@ -1,3 +1,5 @@
+This is not my work.
+
 # kali-anonstealth
 
 ParrotSec's anonsurf and stealth, ported to work with Kali Linux.
